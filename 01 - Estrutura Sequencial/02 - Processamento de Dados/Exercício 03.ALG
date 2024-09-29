@@ -12,7 +12,7 @@ Inicio
       b2 <- 8.0
       h <- 5.0
       
-      area <- (b1 + b2) / 2.0 * h;
+      area <- (b1 + b2) / 2.0 * h
       
       escreval (area)
 
