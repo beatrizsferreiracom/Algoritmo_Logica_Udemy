@@ -1,4 +1,4 @@
-Algoritmo "ExercÌcio - Troco"
+Algoritmo "Exerc√≠cio - Troco"
 
 Var
 
@@ -7,7 +7,7 @@ Var
 
 Inicio
 
-      escreva ("Digite o preÁo unit·rio do produto: ")
+      escreva ("Digite o pre√ßo unit√°rio do produto: ")
       leia (preco)
       escreva ("Digite a quantidade do produto: ")
       leia (quantidade)
@@ -17,6 +17,6 @@ Inicio
       
       troco <- dinheiro - (preco * quantidade)
       
-      escreval ("Troco = ", troco:4:2)
+      escreval ("Troco = R$ ", troco:4:2)
 
 Fimalgoritmo
